@@ -1,0 +1,3 @@
+I have opened the file again
+Truncated all the details of the file
+Enterd 3 more lines and saving the file by closing it.
